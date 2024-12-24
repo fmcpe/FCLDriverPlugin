@@ -27,8 +27,8 @@ android {
             //package name Suffix
             applicationIdSuffix = ".turnip2432"
 
-            //渲染器在启动器内显示的名称
-            //The name displayed by the renderer in the launcher
+            //驱动在启动器内显示的名称
+            //The name displayed by the driver in the launcher
             manifestPlaceholders["driver"] = "Turnip 24.3.2"
         }
     }
