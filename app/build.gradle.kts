@@ -35,7 +35,7 @@ android {
             resValue("string","app_name","Turnip 25.3.0 R7")
             //包名后缀
             //package name Suffix
-            applicationIdSuffix = ".turnip2530.r7"
+            applicationIdSuffix = ".turnip2530.r7.test"
 
             //驱动在启动器内显示的名称
             //The name displayed by the driver in the launcher
